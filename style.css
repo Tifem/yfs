@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: aquamarine;
+
+}
+
+/* body */
+    /* width: 1920px; */
+    /* height: 6814px; */
+
+
+.hero-section{
+    /* width: 1720px; */
+    /* height: 970px; */
+    /* background-color: palegoldenrod; */
+    /* padding: 20px 40px; */
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 40px;
+    /* background-color: blue; */
+}
+
+
+.list ul{
+    list-style: none;
+    display: flex;
+
+}
+
+.list ul li{
+    padding: 10px;
+}
+
+.list ul li:last-child{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.main-page{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+
+
